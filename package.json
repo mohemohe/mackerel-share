@@ -1,0 +1,8 @@
+{
+  "name": "mackerel-stats",
+  "version": "1.0.0",
+  "main": "mackerel.js",
+  "repository": "https://github.com/mohemohe/mackerel-stats.git",
+  "author": "mohemohe <mohemohe@ghippos.net>",
+  "license": "WTFPL"
+}
