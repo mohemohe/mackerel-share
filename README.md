@@ -5,6 +5,10 @@ A surprisingly easy status page generator using mackerel.io.
 
 ![](https://i.imgur.com/XXDzN6g.png)
 
+## live demo
+
+https://cdn.statically.io/gh/mohemohe/mackerel-stats/master/demo/index.html
+
 ## option
 
 https://github.com/mohemohe/mackerel-stats/blob/master/mackerel.js#L35
