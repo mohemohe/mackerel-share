@@ -139,6 +139,7 @@ const styles = {
   
         const iframe = document.createElement("iframe");
         iframe.src = `${src}?period=${this.option.period}`;
+        iframe.loading = "lazy";
         this._setStyle(iframe, {
           width,
           height,
